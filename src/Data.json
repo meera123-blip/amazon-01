@@ -1,0 +1,352 @@
+[
+    {
+        "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=1032&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Earbuds",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 24.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "girls top",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 49.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/41vyLeBd3vL._SX569_.jpg",
+        "title": "Big Bowl",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 99.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51RAIzv9fBL._SY300_SX300_QL70_FMwebp_.jpg",
+        "title": "Drums",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 149.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/41rfCfXY01L._SY355_.jpg",
+        "title": "Red Lipstick",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 199.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71y1PJ2BCKL._SY450_.jpg",
+        "title": "Led Bulb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 29.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71BQIqjVcYL._UY741_.jpg",
+        "title": "Girls skirt",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 59.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61TTF88NJUL._SY500_.jpg",
+        "title": "Fridge",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 109.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/41cg0Q4x7NL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Teddy Bear",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 159.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/316Q8EirXoL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Foundation",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 209.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51xz0+Y1oUL._SX300_SY300_.jpg",
+        "title": "TV",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 34.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51ftMOhfmNL._UY741_.jpg",
+        "title": "Boys Jeans",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 69.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51amIZvP22L._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Wardrobe",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 119.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/61LEgUUHyLL._SY355_.jpg",
+        "title": "Remote Car",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 169.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51qsYwFTUzL._SY355_.jpg",
+        "title": "Concealer",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 219.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/610DPHnQg4L._SX425_.jpg",
+        "title": "Washing Machine",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 39.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51bTa0PWA+L._UX522_.jpg",
+        "title": "Man Tshirt",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 79.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/41X8t2V9pTL._SY445_SX342_QL70_FMwebp_.jpg",
+        "title":"Dish Washer",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 129.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/414athNELgL.jpg",
+        "title": "Remote Aeroplane",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 179.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/41ycRgTGfnL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "Tonor",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 229.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image21.jpg",
+        "title": "Product 21",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 44.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://example.com/image22.jpg",
+        "title": "Product 22",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 89.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://example.com/image23.jpg",
+        "title": "Product 23",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 139.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://example.com/image24.jpg",
+        "title": "Product 24",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 189.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://example.com/image25.jpg",
+        "title": "Product 25",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 239.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image26.jpg",
+        "title": "Product 26",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 49.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://example.com/image27.jpg",
+        "title": "Product 27",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 99.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://example.com/image28.jpg",
+        "title": "Product 28",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 149.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://example.com/image29.jpg",
+        "title": "Product 29",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 199.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://example.com/image30.jpg",
+        "title": "Product 30",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 249.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image31.jpg",
+        "title": "Product 31",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 54.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://example.com/image32.jpg",
+        "title": "Product 32",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 109.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://example.com/image33.jpg",
+        "title": "Product 33",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 159.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://example.com/image34.jpg",
+        "title": "Product 34",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 209.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://example.com/image35.jpg",
+        "title": "Product 35",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 259.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image36.jpg",
+        "title": "Product 36",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 59.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://example.com/image37.jpg",
+        "title": "Product 37",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 119.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://example.com/image38.jpg",
+        "title": "Product 38",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 169.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://example.com/image39.jpg",
+        "title": "Product 39",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 219.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://example.com/image40.jpg",
+        "title": "Product 40",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": 269.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image41.jpg",
+        "title": "Product 41",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": 64.99,
+        "category": "Electronics"
+    },
+    {
+        "image": "https://example.com/image42.jpg",
+        "title": "Product 42",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 129.99,
+        "category": "Clothing"
+    },
+    {
+        "image": "https://example.com/image43.jpg",
+        "title": "Product 43",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "price": 179.99,
+        "category": "Home & Kitchen"
+    },
+    {
+        "image": "https://example.com/image44.jpg",
+        "title": "Product 44",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "price": 229.99,
+        "category": "Toys & Games"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 45",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 46",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 47",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 48",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 49",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    },
+    {
+        "image": "https://example.com/image45.jpg",
+        "title": "Product 50",
+        "description": "Excepteur sint occaecat cupidatat non.",
+        "price": 84.99,
+        "category": "Beauty"
+    }
+]
