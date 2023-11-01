@@ -1,10 +1,19 @@
-# Your Project Name
+Amazon.in-01
 
-Briefly describe your project here.
+My project consist of list of cards consist of image,price,description and category and user can sort by price, filtered by category and move one page to another by pagination.
 
 ## Description
 
-Provide a more detailed description of your project. Explain its purpose, features, and any other relevant information.
+Usage
+View a list of cards that include images, prices, descriptions, and categories.
+Sort the cards by price.
+Filter the cards by category.
+Navigate through the list using pagination.
+
+Features
+Sorting: Users can sort the list of cards by price.
+Filtering: Users can filter the cards by category.
+Pagination: Users can navigate through the list using pagination.
 
 ## Table of Contents
 
